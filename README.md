@@ -30,7 +30,7 @@ De sensor komt met een Qwiic kabel, die kan je niet direct aansluiten op een Ard
 
 Download de [ZIP file van de Arduino library](https://github.com/sparkfun/SparkFun_Bio_Sensor_Hub_Library/archive/master.zip) voor de sensor. 
 
-Installeer de library in de [Arduino IDE](https://www.arduino.cc/en/Main/Software) onder `Tools > Manage Libraries`.
+Installeer de library in de [Arduino IDE](https://www.arduino.cc/en/Main/Software) onder `Sketch > Include Library > Add .ZIP Library...`.
 
 Open het bijgeleverde "BPM Mode 2" voorbeeld, je vindt het onder `File > Examples > SparkFun Bio Hub Sensor Library > Example2_config_BPM_Mode2`, en upload het naar de Arduino.
 
